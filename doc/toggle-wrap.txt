@@ -1,0 +1,8 @@
+*toggle-wrap.txt*             toggle-wrap
+
+
+Hit \w to switch through Vim's 3 line wrapping modes: no wrapping,
+wrapping at the rightmost character, and word wrapping.
+
+To see it in action, simply install this plugin, open a wide file,
+and hit \w a few times.
